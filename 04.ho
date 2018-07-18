@@ -1,0 +1,4 @@
+print("input number: ")
+x = getline().to_i()
+print("answer = ", x * 3)
+println()

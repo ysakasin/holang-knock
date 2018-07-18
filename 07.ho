@@ -1,0 +1,7 @@
+print("input number: ")
+x = getline().to_i()
+if x == 0 {
+  println("zero")
+} else {
+  println("not zero")
+}

@@ -1,0 +1,4 @@
+print("input number: ")
+str = getline()
+print("your number is ", str)
+println()
